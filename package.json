@@ -9,8 +9,8 @@
     "dev": "nodemon src/app.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Facyn",
+  "license": "MIT",
   "dependencies": {
     "axios": "^1.5.0",
     "cors": "^2.8.5",
